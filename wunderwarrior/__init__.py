@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""$description"""
+"""syncronizes wunderlist and taskwarrior"""
 
-from $package import metadata
+from wunderwarrior import metadata
 
 
 __version__ = metadata.version

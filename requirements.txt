@@ -1,2 +1,5 @@
 # Python 2.6 compatibility
 # argparse==1.2.1
+cement==2.10.2
+wunderpy2==0.1.4
+taskw==1.2.0

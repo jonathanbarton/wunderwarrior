@@ -8,8 +8,8 @@ from pytest import raises
 import pytest
 parametrize = pytest.mark.parametrize
 
-from $package import metadata
-from ${package}.main import main
+from wunderwarrior import metadata
+from wunderwarrior.main import main
 
 
 class TestMain(object):
